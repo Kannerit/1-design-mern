@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+
+body {
+  background-color: #d5eeff;
+  color: #13334c;
+}
+
+.formContainer {
+  width: 100%;
+}
+
+.tableContainer {
+  margin-top: 50px;
+}
+
+
